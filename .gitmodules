@@ -1,0 +1,6 @@
+[submodule "s2bp2s"]
+	path = s2bp2s
+	url = https://github.com/EmeraldBlock/s2bp2s.git
+[submodule "shapez2_blueprint_renderer"]
+	path = shapez2_blueprint_renderer
+	url = https://github.com/jmeggitt/shapez2_blueprint_renderer.git
